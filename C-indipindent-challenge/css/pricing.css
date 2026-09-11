@@ -14,6 +14,10 @@ body {
     box-sizing: border-box;
 }
 
+#pricing-title {
+    text-align: center;
+}
+
 .price-card {
     /* color: white; */
     background-color: var(--color-card-background);
@@ -66,4 +70,3 @@ body {
     }
 }
 
-    
